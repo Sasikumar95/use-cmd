@@ -1,24 +1,24 @@
-#Use-CMD
+# Use-CMD
   Welcome Windows Lover
 
-##What is Command-line interface (CLI)?
+## What is Command-line interface (CLI)?
   A command-line interface (CLI) processes commands to a computer program in the form of lines of text. The program which handles the interface is called a command-line interpreter or command-line processor. 
   
-##Essential Commands
-###Help (HELP or Help or help)
+## Essential Commands
+### Help (HELP or Help or help)
   Sometimes we don't know the system approach, that time we need help. so, try help command.
 ```
 C:\>help
 ```
   this Command alway help you.
   
-###Directory(Folder) - (DIR or dir)
+### Directory(Folder) - (DIR or dir)
    It enables you to change a file system structure in which to store computer files or another directory(folder).
       ```
       C:\>dir
       ```
 
-###Change Directory (CD or cd or chdir)
+### Change Directory (CD or cd or chdir)
   It enables you to change the current directory or, in other words, to navigate to another directory (folder) from your PC.
 ```
 C:\>cd
@@ -39,13 +39,13 @@ C:\>cd
   C:\>cd D:\Entertainment\movies\
   ```
   
-4.Make Directory (MKDIR or Mkdir or mkdir)
+### Make Directory (MKDIR or Mkdir or mkdir)
   It enables you to create new Directory 
 ```
 C:\>mkdir Cluster
 ```
 
-5.Remove Directory (RMDIR or Rmdir or rmdir)
+### Remove Directory (RMDIR or Rmdir or rmdir)
   It enables you to remove already created Directory with that directory will empty.
 ```
 C:\>rmdir Cluster
