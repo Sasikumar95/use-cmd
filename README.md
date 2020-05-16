@@ -23,44 +23,44 @@ C:\>dir
 ```
 C:\>cd
 ```
- #### i) Absolute path
+  #### i) Absolute path
    Move to the Current Directory Sub Directory
   ```
   C:\>cd education
   ```
-#### ii) Relative path
+  #### ii) Relative path
    Move to the Current Directory Sub Directory along with that child Directory.
    
- Example 1: Same Directory
+   Example 1: Same Directory
  ```
  C:\>cd education/books
  ```
  
- Example 2: Another Patition Directory
+   Example 2: Another Partition  Directory
  ```
- C:\>cd D:\Entertainment\movies\
+ C:\>cd D:\movies
  ```
   
-### Make Directory (MKDIR or Mkdir or mkdir)
+### 4.Make Directory (MKDIR or Mkdir or mkdir)
   It enables you to create new Directory 
 ```
 C:\>mkdir Cluster
 ```
 
-### Remove Directory (RMDIR or Rmdir or rmdir)
+### 5.Remove Directory (RMDIR or Rmdir or rmdir)
   It enables you to remove already created Directory with that directory will empty.
 ```
 C:\>rmdir Cluster
 ```
 
-6.Rename (RENAME or Rename or rename or ren)
+### 6.Rename (RENAME or Rename or rename or ren)
   It enables you to change directory and file(.txt (any file)) name.
 ```
 C:\>ren movie flim
 
 C:\>ren text.txt cofig.txt
 ```
-7.Delete (DELETE or Delete or delete or del)
+### 7.Delete (DELETE or Delete or delete or del)
   It enables you to delete single or multiple files.
 ```
 C:\>del test.txt
@@ -68,13 +68,13 @@ C:\>del test.txt
 C:\>del test.txt cofig.txt
 ```
 
-8.Exit (exit)
+### 8.Exit (exit)
   It enables you to close CMD.
 ```
 C:\>exit
 ```
 
-8.Echo (echo)
+### 9.Echo (echo)
   It enables you to print message in corrent CMD.
 ```
 C:\>echo "Hello World"
@@ -83,25 +83,25 @@ C:\>echo "windows CDM is awesome"
 
 C:\>echo Hi!
 ```
-9.Type (TYPE or Type or type)
+### 10.Type (TYPE or Type or type)
   It enables you to display text file content in CMD.
 ```
 C:\>type text.txt
 ```
 
-10.File Compare (FC or fc)
+### 11.File Compare (FC or fc)
    It enables you to compare two file content changes in line by line.
 ```
 C:\>fc file.txt file1.txt
 ```
 
-11.Clear Screen (clear or cls)
+### 12.Clear Screen (clear or cls)
    It enables you to clear output result.
 ```
 C:\>cls
 ```
 
-12.Help
+### 13.Help
    I already said Help is always Helpful. so try.
 ```
 C:\>help dir
