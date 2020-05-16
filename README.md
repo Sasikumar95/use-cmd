@@ -5,24 +5,25 @@
   A command-line interface (CLI) processes commands to a computer program in the form of lines of text. The program which handles the interface is called a command-line interpreter or command-line processor. 
   
 ## Essential Commands
-### Help (HELP or Help or help)
+### 1 Help (HELP or Help or help)
   Sometimes we don't know the system approach, that time we need help. so, try help command.
 ```
 C:\>help
 ```
+  this Command alway help you.
   
-### Directory(Folder) - (DIR or dir)
+### 2 Directory(Folder) - (DIR or dir)
    It enables you to change a file system structure in which to store computer files or another directory(folder).
 ```
 C:\>dir
 ```
 
-### Change Directory (CD or cd or chdir)
+### 3 Change Directory (CD or cd or chdir)
   It enables you to change the current directory or, in other words, to navigate to another directory (folder) from your PC.
 ```
 C:\>cd
 ```
- i)Absolute path
+ #### i) Absolute path
    Move to the Current Directory Sub Directory
   ```
   C:\>cd education
