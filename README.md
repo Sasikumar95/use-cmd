@@ -10,7 +10,6 @@
 ```
 C:\>help
 ```
-  this Command alway help you.
   
 ### Directory(Folder) - (DIR or dir)
    It enables you to change a file system structure in which to store computer files or another directory(folder).
