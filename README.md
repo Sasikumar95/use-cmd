@@ -10,5 +10,5 @@
 ```
 C:\>help
 ```
-    It
+ this is alway help you.
   1.Directory (DIR or dir)
