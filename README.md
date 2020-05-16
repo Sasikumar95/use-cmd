@@ -13,9 +13,9 @@ C:\>help
   
 ### Directory(Folder) - (DIR or dir)
    It enables you to change a file system structure in which to store computer files or another directory(folder).
-      ```
-      C:\>dir
-      ```
+```
+C:\>dir
+```
 
 ### Change Directory (CD or cd or chdir)
   It enables you to change the current directory or, in other words, to navigate to another directory (folder) from your PC.
