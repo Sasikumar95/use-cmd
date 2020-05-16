@@ -12,13 +12,13 @@ C:\>help
 ```
   this Command alway help you.
   
-2.Directory(Folder) - (DIR or dir)
-  It enables you to change a file system structure in which to store computer files or another directory(folder).
-```
-C:\>dir
-```
+### Directory(Folder) - (DIR or dir)
+   It enables you to change a file system structure in which to store computer files or another directory(folder).
+      ```
+      C:\>dir
+      ```
 
-3.Change Directory (CD or cd or chdir)
+### Change Directory (CD or cd or chdir)
   It enables you to change the current directory or, in other words, to navigate to another directory (folder) from your PC.
 ```
 C:\>cd
