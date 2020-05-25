@@ -90,7 +90,7 @@ C:\>type text.txt
 ```
 
 ### 11. File Compare (FC or fc)
-   It enables you to compare two file content changes in line by line.
+   It enables you to compare two file content specific line changes.
 ```
 C:\>fc file.txt file1.txt
 ```
